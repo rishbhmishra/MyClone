@@ -2,10 +2,10 @@
 :root {
   --default-text-color: #fff;
   --logo-color: rgb(253, 206, 35);
-  --page-background-color: #2c3333;
+  --page-background-color: #1de0e0;
   --form-color: rgb(109, 114, 121);
   --search-icon-color: #3d3e43;
-  --card-color: rgb(18, 21, 21);
+  --card-color: rgb(26, 31, 31);
   --default-heart-color: rgb(207, 194, 194);
   --heart-red-color: #ec0638;
   --favourite-section-color: rgb(28, 27, 27);
